@@ -15,5 +15,6 @@ upforgrabs:
   name: good first issue
   link: https://github.com/TEAMMATES/teammates/labels/good%20first%20issue
 stats:
-  issue-count: 0
-  fork-count: 3078
+  issue-count: 9
+  last-updated: '2023-12-14T11:32:57Z'
+  fork-count: 3091
